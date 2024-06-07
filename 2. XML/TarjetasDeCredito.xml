@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<TarjetaDeCredito>
+	<NombreDelSistema></NombreDelSistema>
+	<Localizacion></Localizacion>
+	<NumeroDeTarjeta></NumeroDeTarjeta>
+	<IdCliente></IdCliente>
+	<FechaVencimiento></FechaVencimiento>
+	<CCV></CCV>
+</TarjetaDeCredito>
+			
